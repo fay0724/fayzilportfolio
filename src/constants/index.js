@@ -202,7 +202,7 @@ const myWords = [
     {
         text: "Jika tertarik untuk bekerja sama, silakan unduh CV saya dengan mengklik tombol Unduh. Saya berharap dapat berkolaborasi dengan Anda dalam proyek yang menarik!",
         name: "Fayzil Napu",
-        designation: "Junior Front-End",
+        designation: "Front-End Devlop",
         company: "Freelancer",
         image: me,
     },
